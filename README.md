@@ -8,6 +8,7 @@ Proposed GO/Monobehavior structure:
     + Audio
     + TileDaimon
     + TimeDaimon
+    + BlockDaimon
 + Stage (Set on Canvas object)
 + Rig
     + Camera
